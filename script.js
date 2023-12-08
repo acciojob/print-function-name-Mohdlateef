@@ -5,5 +5,5 @@ function functionName() {
 function Acciojob(){
 	return "Acciojob";
 }
-alert(functionName);
-alert(Acciojob);
+alert("functionName");
+alert("Acciojob");
